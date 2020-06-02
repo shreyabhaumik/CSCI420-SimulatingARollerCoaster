@@ -107,7 +107,10 @@ These are 3 of the notable open-ended problems tackled in the homework.
 - The ```.obj``` file used for STANFORD DRAGON is in the folder "HW2/objects".
 
 ### **EXHIBIT:**
-
+![RollerCoaster](sample-images/RollerCoaster.png)  
+![DragonInScene](sample-images/DragonInScene.png)  
+![Scene](sample-images/Scene.png)  
+[![https://www.youtube.com/watch?v=lIiI4SpHbTc](https://www.youtube.com/watch?v=lIiI4SpHbTc)](https://www.youtube.com/watch?v=lIiI4SpHbTc)
 
 ### **LICENSE FOR IMAGES(SKYBOX) AND OBJ(DRAGON):**
 #### **Skybox images:**
