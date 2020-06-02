@@ -1,3 +1,0 @@
-2
-splines/myRollerCoaster1.sp
-splines/myRollerCoaster2.sp
